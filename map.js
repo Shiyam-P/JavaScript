@@ -4,7 +4,6 @@
 //Example: 1
 let arr = ["apple","banana","mango"];
 let res = arr.map((num) => {
-    // console.log(num.toUpperCase());
     return num.toUpperCase();
 });
 console.log(res);
